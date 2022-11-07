@@ -12,6 +12,7 @@ details: 'HTML Code that describes <strong>in detail</strong> the solution and i
 partners: Member no. 1, Member no. 2
 next_steps: Convert into a proper solution
 ---
+
 short_name: example-name
 name: Example Name
 link: https://aioti.eu

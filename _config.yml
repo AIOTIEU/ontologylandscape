@@ -4,8 +4,8 @@ plugins:
 - jekyll-feed
 - jekyll-coffeescript
 
-title: AIOTI WG Urban Society
-description: Catalogue of IoT Solutions focused on Urban Society Goals <br/>(More Green, More Digital, More Resilient)
+title: AIOTI Ontology Landscape
+description: Catalogue of Ontologies for Semantic Interoperability
 
 github:
   is_project_page: false

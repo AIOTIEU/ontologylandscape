@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIOTI Urban Society Portfolio
+title: AIOTI Ontology Landscape Portfolio
 ---
 
 <head>
