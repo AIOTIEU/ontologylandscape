@@ -34,7 +34,7 @@ Browse the solutions provided by AIOTI members in the table below.
 	  <td colspan="2"><b>Acronym</b></td>
           <td colspan="4"><b>Name</b></td>
           <td colspan="5"><b>Main Areas</b></td>
-          <td colspan="1"><b>TRL</b></td>
+          <td colspan="1"><b><a href="https://enspire.science/trl-scale-horizon-europe-erc-explained/">TRL</a></b></td>
         </tr>
         <tr>
           <td colspan="2">
@@ -69,28 +69,22 @@ Browse the solutions provided by AIOTI members in the table below.
 	<tr>
 	    <td colspan="12">
 		<strong>Ontology URI:</strong>
-                <br>
                 <a href="{{ solution.ontology_uri }}">{{ solution.ontology_uri }}</a>
 	    </td>
         </tr>
 	<tr>
-	   <td colspan="12">
-		<strong>License:</strong>
-        	<br>
-            	{{ solution.license | markdownify }}
-	   </td>
-	</tr>
-	<tr>
-	   <td colspan="12">
+	   <td colspan="6">
 		<strong>Maintainer:</strong>
-        	<br>
             	{{ solution.maintainer | markdownify}}
+	   </td>
+	   <td colspan="6">
+		<strong>License:</strong>
+            	{{ solution.license | markdownify }}
 	   </td>
         </tr>
 	<tr>
 	   <td colspan="12">
 		<strong>Complete Survey Information:</strong>
-		<br>
                	<a href="{{ solution.complete_survey_uri }}">{{ solution.acronym }}</a>
 	   </td>
         </tr>
