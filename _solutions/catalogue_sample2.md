@@ -1,6 +1,6 @@
 ---
 short_name: example-name
-name: Example Name
+name: New Example Name
 link: https://aioti.eu
 challenges: Semantic Interoperability
 provider: AIOTI
@@ -12,3 +12,5 @@ details: 'HTML Code that describes <strong>in detail</strong> the solution and i
 partners: Member no. 1, Member no. 2
 next_steps: Convert into a proper solution
 ---
+
+Here we can describe the **added value** of the solution and add more details.
