@@ -28,13 +28,13 @@ Browse the solutions provided by AIOTI members in the table below.
   <table id="catalogue" class="display" style="width: 100%">
       <tbody>
         <td colspan="12" bgcolor=gray></td>  
-        <!--For loop that iterates over markdown frontmatter in _skus folder-->
+        <!--For loop that iterates over markdown frontmatter in _solutions folder-->
         {% for solution in site.solutions %}
-        <tr>
-	  <td colspan="2" bgcolor=#707070><b>Acronym</b></td>
-          <td colspan="4" bgcolor=#707070><b>Name</b></td>
-          <td colspan="5" bgcolor=#707070><b>Main Areas</b></td>
-          <td colspan="1" bgcolor=#707070><b><a href="https://enspire.science/trl-scale-horizon-europe-erc-explained/">TRL</a></b></td>
+        <tr bgcolor=blue>
+	  <td colspan="2"><b>Acronym</b></td>
+          <td colspan="4"><b>Name</b></td>
+          <td colspan="5"><b>Main Areas</b></td>
+          <td colspan="1"><b><a href="https://enspire.science/trl-scale-horizon-europe-erc-explained/">TRL</a></b></td>
         </tr>
         <tr>
           <td colspan="2">
