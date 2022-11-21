@@ -1,6 +1,6 @@
 ---
 short_name: example-name
-name: Example Name
+name: Perfect Example Name
 link: https://aioti.eu
 challenges: Semantic Interoperability
 provider: AIOTI
