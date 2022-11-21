@@ -30,7 +30,10 @@ Browse the solutions provided by AIOTI members in the table below.
         <td colspan="12" bgcolor=gray></td>  
         <!--For loop that iterates over markdown frontmatter in _solutions folder-->
         {% for solution in site.solutions %}
-        <tr bgcolor=blue>
+	<tr>
+    	   <td colspan="12" class="divider"><hr /></td>
+    	</tr>
+        <tr>
 	  <td colspan="2"><b>Acronym</b></td>
           <td colspan="4"><b>Name</b></td>
           <td colspan="5"><b>Main Areas</b></td>
