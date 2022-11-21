@@ -31,7 +31,7 @@ Browse the solutions provided by AIOTI members in the table below.
         <!--For loop that iterates over markdown frontmatter in _solutions folder-->
         {% for solution in site.solutions %}
 	<tr>
-    	   <td colspan="12" class="divider" bgcolor=grey><hr /></td>
+    	   <td colspan="12" class="divider" bgcolor=grey></td>
     	</tr>
         <tr>
 	  <td colspan="2"><b>Acronym</b></td>
