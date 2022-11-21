@@ -31,59 +31,71 @@ Browse the solutions provided by AIOTI members in the table below.
         <!--For loop that iterates over markdown frontmatter in _skus folder-->
         {% for solution in site.solutions %}
         <tr>
-			    <td colspan="3"><b>Name</b></td>
-          <td colspan="3"><b>Provider</b></td>
-          <td colspan="3"><b>Domains</b></td>
-          <td colspan="3"><b>Status</b></td>
+	  <td colspan="2"><b>Acronym</b></td>
+          <td colspan="4"><b>Name</b></td>
+          <td colspan="5"><b>Main Areas</b></td>
+          <td colspan="1"><b>TRL</b></td>
         </tr>
         <tr>
-          <td colspan="3">
+          <td colspan="2">
             <strong>
-              <a href="{{ solution.link }}">{{ solution.name }}</a>
+         	{{ solution.acronym }}
             </strong>
-          </td>
-          <td colspan="3">
-            <a href="{{ solution.provider_url }}">
-              <strong>{{ solution.provider}}</strong>
-              <br><br>
-					  	<img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=100/>
-            </a>
-          </td>
-          <td colspan="3">{{ solution.challenges }}</td>
-					<td colspan="3">
-            {{ solution.status }}
             <br><br>
-						<strong>Location:</strong>
-            <br>{{ solution.location }}
+	  	<img src="{{ solution.logo }}" alt="   " width=100/>
+          </td>
+          <td colspan="4">
+          	{{ solution.name }}
+          </td>
+          <td colspan="5">
+		  {{ solution.main_areas }}
+	  </td>
+	  <td colspan="1"  bgcolor="{{ solution.hexcolor }}">
+          	  {{ solution.trl }}
           </td>
         </tr>
-				<tr>
-					<td colspan="9">
-						<strong>Description:</strong>
-            {{ solution.content | markdownify }}
-					</td>
-          <td colspan="3">
-						<strong>Partners involved:</strong>
-            <br>
-            {{ solution.partners }}
-					</td>
-				</tr>
-				<tr>
-					<td colspan="9">
-						<strong>More details:</strong>
-            <br>
-            {{ solution.details }}
-					</td>
-					<td colspan="3">
-						<strong>Next Steps:</strong>
-            <br>
-            {{ solution.next_steps}}
-					</td>
+	<tr>
+	  <td colspan="12">
+		<strong>Description:</strong>
+            	{{ solution.description | markdownify }}
+	  </td>
+	</tr>
+	<tr>
+	  <td colspan="12">
+		<strong>Technical Specification:</strong>
+            	{{ solution.specification | markdownify }}
+	  </td>
+	</tr>
+	<tr>
+	    <td colspan="12">
+		<strong>Ontology URI:</strong>
+                <br>
+                <a href="{{ solution.ontology_uri }}">{{ solution.ontology_uri }}</a>
+	    </td>
         </tr>
-        <tr>
-          <td colspan="12" bgcolor=grey></td>
+	<tr>
+	   <td colspan="12">
+		<strong>License:</strong>
+        	<br>
+            	{{ solution.license | markdownify }}
+	   </td>
+	</tr>
+	<tr>
+	   <td colspan="12">
+		<strong>Maintainer:</strong>
+        	<br>
+            	{{ solution.maintainer | markdownify}}
+	   </td>
         </tr>
-        {% endfor %}
+	<tr>
+	   <td colspan="12">
+		<strong>Complete Survey Information:</strong>
+		<br>
+               	<a href="{{ solution.complete_survey_uri }}">{{ solution.acronym }}</a>
+	   </td>
+        </tr>
+	{% endfor %}
+	<td colspan="12" bgcolor=gray></td>  
       </tbody>
     </table>
   </div>
