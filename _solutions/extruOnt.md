@@ -10,5 +10,5 @@ ontology_uri: http://siul02.si.ehu.es/bdi/ontologies/ExtruOnt/ExtruOnt.owl
 license: [CC-BY4.0](https://creativecommons.org/licenses/by/4.0/)
 maintainer: "Idoia Berges ([University of the Basque Country UPV/EHU](https://www.ehu.eus/en/en-home))"
 complete_survey_uri: https://drive.google.com/file/d/1Z3rA1kk4cZViqGEMyxD6wKUKKXfuNo42/view
-logo: ---
+logo: -
 --- 
