@@ -1,0 +1,3 @@
+| acronym | name | main_areas | trl | hexcolor | description | specification | ontology_uri | license | maintainer | complete_survey_uri | logo |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| EEPSA ontology | Energy Efficiency Prediction Semantic Assistant ontology | Generic IoT, Smart Home/Buildings, Energy | 7 | #ff8800 | The EEPSA ontology is a modular ontology based on ODPs (Ontology Design Patterns) and focused on energy efficiency and thermal comfort in buildings but it is aimed at being reusable and easily customizable for other use cases in similar domains. | https://w3id.org/eepsa | https://w3id.org/eepsa | CC-BY4.0 | Tekniker Research and Technology Centre | https://drive.google.com/file/d/1ay8WLwWqwoTJ9YNOCxILjabdKi9Z9dKX/view?usp=sharing | / |
