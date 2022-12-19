@@ -1,4 +1,4 @@
----
+--- 
 acronym: Hyystack
 name: Project-Haystack.org 
 main_areas: Smart Home/Building, Energy, Industry, Cities
@@ -11,4 +11,4 @@ license: "[Academic Free License 3.0](https://project-haystack.org/doc/License)"
 maintainer: Project Haystack tax-exempt non-stock corporation 
 complete_survey_uri: https://drive.google.com/file/d/1Z3rA1kk4cZViqGEMyxD6wKUKKXfuNo42/view
 logo: /
----
+--- 
