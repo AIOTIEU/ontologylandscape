@@ -1,4 +1,4 @@
----
+--- 
 acronym: FoodOn
 name: Food Ontology
 main_areas: Industry, Health, Farming/AgriFood
@@ -11,6 +11,6 @@ license: "[CC-BY4.0](https://creativecommons.org/licenses/by/4.0/)"
 maintainer: Damion Dooley
 complete_survey_uri: https://drive.google.com/file/d/1hBL7N-ASPK6GxCg6j57jdy_9D_dXP4Yg/view?usp=sharing
 logo: /
----
+--- 
  
 
