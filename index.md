@@ -1,9 +1,7 @@
 ## AIOTI Ontology Landscape Portfolio
 
-TBD
+![Ontology Landscape](./assets/images/OntologyLandscape-1.0.1.JPG)
+
+The Ontology Landscape visualization shown above is structured according to the different IoT application domains. Generic IoT ontologies that do not target a specific application domain are shown in the vertical box below.
 
 Browse our [**Catalogue here**](./catalogue.html).
-
-## Contribute to our Portfolio!
-
-This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/ontologylandscape). Feel free to contribute!
