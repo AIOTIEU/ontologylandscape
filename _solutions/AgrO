@@ -1,3 +1,4 @@
+--- 
 acronym: AgrO
 name:  Agronomy Ontology
 main_areas: Farming/Agrifood
@@ -10,4 +11,4 @@ license: "Creative Commons Attribution 4.0 International License"
 maintainer: "Aubert Céline"
 complete_survey_uri: https://drive.google.com/file/d/164JRhOc9wt2mmcV5wlrT4S24VZbvqQZG/view 
 logo: /
-
+--- 
