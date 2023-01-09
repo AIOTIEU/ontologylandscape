@@ -3,7 +3,7 @@ acronym: FoodOn
 name: Food Ontology
 main_areas: Industry, Health, Farming/AgriFood
 trl: 9
-hexcolor: "#4A86E8"
+hexcolor: "#2E73B4"
 description: The need to represent knowledge about food is central to many human activities including agriculture, medicine, food safety inspection, shopping patterns, and sustainable development. FoodOn is an ontology to name all parts of animals and plants which can bear a food role for humans and domesticated animals, as well as derived food products and the processes used to make them.
 specification: https://foodon.org/
 ontology_uri: https://github.com/FoodOntology/foodon/blob/master/foodon.owl
