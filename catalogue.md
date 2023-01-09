@@ -97,13 +97,6 @@ Browse the solutions provided by AIOTI members in the table below.
     </table>
   </div>
 
-## Contribute to our Portfolio!
+## Contribute your own ontology to the next version of the Ontology Landscape
 
-This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/urbansociety).
-<br>Feel free to contribute!
-
-<script>
-$(document).ready(function() {
-    $('#catalogue').DataTable();
-} );
-</script>
+Please fill out the our survey: https://ec.europa.eu/eusurvey/runner/OntologyLandscapeTemplate
