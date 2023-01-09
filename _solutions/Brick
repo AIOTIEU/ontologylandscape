@@ -1,3 +1,24 @@
 | acronym | name | main_areas | trl | hexcolor | description | specification | ontology_uri | license | maintainer | complete_survey_uri | logo |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Brick | Brick | Generic IoT (Horizontal) | 9 | #0000FF | Brick focuses on modelling the entities, relationships and contexts surrounding data sources in buildings. To this end, Brick defines (a) a comprehensive class organization of building equipment spanning multiple subsystems including HVAC, lighting and electrical infrastructure, (b) a set of Point definitions defining the semantics of data sources, (c) a set of object properties (called "relationships" in Brick parlance) that describe how entities are composed into complex systems. The ultimate goal of the ontology is to enable "portable" analytics and control software that accesses a Brick model in order to configure its operation to a particular building environment.| https://brickschema.org/ontology/ | https://brickschema.org/schema/Brick | BSD 3-Clause | Brick Consortium Inc. (non-profit membership corporation) | https://drive.google.com/file/d/17aWyGIWKA2UbVryU99wBlS7fd7MSCiev/view?usp=sharing | / |
+| Brick |  |  | 9 | #0000FF | |  |  | BSD 3-Clause |  | https://drive.google.com/file/d/17aWyGIWKA2UbVryU99wBlS7fd7MSCiev/view?usp=sharing | / |
+
+--- 
+acronym: Brick
+name:  Brick
+main_areas: Generic IoT (Horizontal)
+trl: 9
+hexcolor: "#0000FF"
+description: Brick focuses on modelling the entities, relationships and contexts surrounding data sources in buildings.
+To this end, Brick defines (a) a comprehensive class organization of building equipment spanning multiple subsystems 
+including HVAC, lighting and electrical infrastructure, (b) a set of Point definitions defining the semantics 
+of data sources, (c) a set of object properties (called "relationships" in Brick parlance) that describe 
+how entities are composed into complex systems. The ultimate goal of the ontology is to enable "portable" analytics 
+and control software that accesses a Brick model in order to configure its operation to a particular building 
+environment.
+specification: "https://brickschema.org/ontology/"
+ontology_uri: "https://brickschema.org/schema/Brick"
+license: "Brick Consortium Inc. (non-profit membership corporation)"
+maintainer: "Brick Consortium Inc. (non-profit membership corporation)"
+complete_survey_uri: https://drive.google.com/file/d/17aWyGIWKA2UbVryU99wBlS7fd7MSCiev/view?usp=sharing 
+logo: /
+---
