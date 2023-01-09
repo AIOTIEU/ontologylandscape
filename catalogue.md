@@ -99,4 +99,4 @@ Browse the solutions provided by AIOTI members in the table below.
 
 ## Contribute your own ontology to the next version of the Ontology Landscape
 
-Please fill out the our survey: https://ec.europa.eu/eusurvey/runner/OntologyLandscapeTemplate
+Please fill out the our [Survey](https://ec.europa.eu/eusurvey/runner/OntologyLandscapeTemplate)
