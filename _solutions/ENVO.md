@@ -3,7 +3,7 @@ acronym: ENVO
 name: Environment Ontology
 main_areas: Farming/AgriFood, Water/Environment
 trl: 9
-hexcolor: "#4A86E8"
+hexcolor: "#2E73B4"
 description: ENVO is an expressive, machine-actionable knowledge representation of environmentalentities. Using ENVO to describe things like ecosystems, entire planets and other astronomical bodies, their parts, or environmental processes increases the interoperability of environmental descriptions, helping (meta)data records achieve demonstrable FAIRness.
 specification: "[ENVO Specification](https://github.com/EnvironmentOntology/envo)"
 ontology_uri: "[ENVO OWL Ontology] (http://purl.obolibrary.org/obo/envo.owl)"
