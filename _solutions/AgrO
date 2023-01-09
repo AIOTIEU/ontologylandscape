@@ -1,3 +1,15 @@
-| acronym | name | main_areas | trl | hexcolor | description | specification | ontology_uri | license | maintainer | complete_survey_uri | logo |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| AgrO | Agronomy Ontology | Farming/Agrifood| 8 | #FFFF00 | The Agronomy Ontology has been developed to enable the description of agronomic data variables using standard terms. This allows leveraging standards for metadata and data annotation to address the challenges in current ways to manage agronomic data, which are currently collected, described, and stored in inconsistent ways, impeding data comparison, mining, interpretation reuse. | https://bigdata.cgiar.org/resources/agronomy-ontology/ https://github.com/AgriculturalSemantics/agro | https://github.com/AgriculturalSemantics/agro/blob/master/agro.owl | Creative Commons Attribution 4.0 International License | Aubert Céline | https://drive.google.com/file/d/164JRhOc9wt2mmcV5wlrT4S24VZbvqQZG/view | / |
+--- 
+acronym: AgrO
+name:  Agronomy Ontology
+main_areas: Farming/Agrifood
+trl: 8
+hexcolor: "#FFFF00"
+description: The Agronomy Ontology has been developed to enable the description of agronomic data variables using standard terms. This allows leveraging standards for metadata and data annotation to address the challenges in current ways to manage agronomic data, which are currently collected, described, and stored in inconsistent ways, impeding data comparison, mining, interpretation reuse.
+specification: "https://bigdata.cgiar.org/resources/agronomy-ontology/ https://github.com/AgriculturalSemantics/agro"
+ontology_uri: https://github.com/AgriculturalSemantics/agro/blob/master/agro.owl
+license: "Creative Commons Attribution 4.0 International License"
+maintainer: "Aubert Céline"
+complete_survey_uri: https://drive.google.com/file/d/164JRhOc9wt2mmcV5wlrT4S24VZbvqQZG/view 
+logo: /
+---
+
