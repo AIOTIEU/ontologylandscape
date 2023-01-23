@@ -10,5 +10,5 @@ ontology_uri: https://github.com/w3c/vsso
 license: CC 4.0 License
 maintainer: "W3C Community"
 complete_survey_uri: https://drive.google.com/file/d/1gm74PE4FHtLOt16jZSDQ9GhlS99xeVFB/view
-logo: https://saref.etsi.org/static/images/logo-l.png
+logo: [https://saref.etsi.org/static/images/logo-l.png](https://www.w3.org/Icons/w3c_home)
 --- 
