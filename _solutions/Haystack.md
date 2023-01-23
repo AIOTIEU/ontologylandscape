@@ -1,5 +1,5 @@
 --- 
-acronym: Hyystack
+acronym: Haystack
 name: Project-Haystack.org 
 main_areas: Smart Home/Building, Energy, Industry, Cities
 trl: 9
