@@ -10,6 +10,6 @@ ontology_uri: "https://saref.etsi.org/saref4agri"
 license: "[ETSI Software License](https://forge.etsi.org/etsi-software-license)"
 maintainer: "ETSI"
 complete_survey_uri: Https://drive.google.com/file/d/1sT8Btj-7CDieFL2gqWG9GCRmPuv0nOj2/view?usp=sharin
-logo: /
+logo: https://saref.etsi.org/static/images/logo-l.png
 ---
 
