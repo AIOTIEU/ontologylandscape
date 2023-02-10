@@ -21,8 +21,8 @@ title: AIOTI Ontology Landscape Portfolio
       </script>
   </head>
 
-Browse the solutions provided by AIOTI members in the table below.
-<br/>Follow [**this link**](./index.html) to return to the main page.
+Browse the solutions in the table below, which are listed in alphabetical order.
+<br/>Follow [**this link**](./index.html) to return to the overview page.
 
 <div class= "container" >
   <table id="catalogue" class="display" style="width: 100%">
