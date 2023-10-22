@@ -5,7 +5,7 @@ Choosing the right ontologies is an important basis for successfully implementin
 Browse our [**Catalogue here**](./catalogue.html). The latest document version of the ontology landscape can be found [here](https://aioti.eu/aioti-ontology-landscape-report/) or directly as [pdf](https://aioti.eu/wp-content/uploads/2022/02/AIOTI-Ontology-Landscape-Report-R1-Published-1.0.1.pdf).
 To contribute your own ontology to the next version of the Ontology Landscape, please fill out the our [**Survey**](https://ec.europa.eu/eusurvey/runner/OntologyLandscapeTemplate).
 
-![Ontology Landscape](./assets/images/OntologyLandscape-v1.1.0.jpg)
+![Ontology Landscape](./assets/images/OntologyLandscape-v1.1.1.jpg)
 
 The Ontology Landscape visualization shown above is structured according to the different IoT application domains. Generic IoT ontologies that do not target a specific application domain are shown in the vertical box below.
 
